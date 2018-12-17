@@ -1,8 +1,4 @@
-# KOMVUX-GRASSP.github.io
 
-##GRASSPApp
-Contributors:
-Garima, Amanpreet, Shweta, Subarna and Pratibha
 Idea:
 App is designed to provide residents and tourists a comprehensive guide to locate:
 
